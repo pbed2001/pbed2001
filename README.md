@@ -8,7 +8,7 @@
 
 - 👋 My name is Philippe and I'm a Software Developer based on Montevideo, Uruguay
 
-- 🔭 Currently working as a Software Developer at @GlobalUy
+- 🔭 Currently working as a Software Developer at <a href="https://globaluy.com">GlobalUy</a>
 
 - 🌱 Growing my React and Go skills at the moment
 
