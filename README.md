@@ -87,3 +87,9 @@
     <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" title="linkedin" alt="linkedin" width="40" height="40"/>
     </a>
 </div>
+
+---
+
+### Some stats:
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pbed2001&theme=dark">
