@@ -10,7 +10,7 @@
 
 - 🔭 Currently working as a Software Developer at <a href="https://globaluy.com">GlobalUy</a>
 
-- 🌱 Improving my React and Go skills at the moment
+- 🌱 Improving my React and Go skills
 
 - 📫 You can reach out to me through my email! philippebedross@gmail.com
 
