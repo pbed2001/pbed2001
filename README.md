@@ -88,8 +88,4 @@
     </a>
 </div>
 
----
 
-### 🔥 Some stats:
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pbed2001&theme=dark&background=0d1117">
